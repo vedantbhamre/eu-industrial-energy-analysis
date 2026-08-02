@@ -4,9 +4,9 @@ Small Python project analyzing trends in final energy consumption across EU indu
 
 ## Dataset
 
-Source: [Eurostat](https://ec.europa.eu/eurostat) — "Final energy consumption in industry - detailed statistics" (dataset code `nrg_bal_s`), data extracted May 2026.
+Source: [Eurostat](https://ec.europa.eu/eurostat): "Final energy consumption in industry - detailed statistics" (dataset code `nrg_bal_s`), data extracted May 2026.
 
-The dataset covers EU industrial final energy consumption by energy product (electricity, natural gas, solid fossil fuels, oil/petroleum, renewables, etc.) and by industrial sub-sector (chemicals, metals, food & beverages, etc.). Figures are in Petajoules (PJ). This project uses the two reference years Eurostat highlights in its summary article — 1990 and 2024 — to capture the long-term trend rather than a full year-by-year series.
+The dataset covers EU industrial final energy consumption by energy product (electricity, natural gas, solid fossil fuels, oil/petroleum, renewables, etc.) and by industrial sub-sector (chemicals, metals, food & beverages, etc.). Figures are in Petajoules (PJ). This project uses the two reference years Eurostat highlights in its summary article 1990 and 2024 to capture the long-term trend rather than a full year-by-year series.
 
 Full dataset: https://ec.europa.eu/eurostat/databrowser/view/ten00124
 
